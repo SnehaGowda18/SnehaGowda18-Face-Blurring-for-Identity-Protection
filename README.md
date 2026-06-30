@@ -1,2 +1,6 @@
-# SnehaGowda18-face-blurring-for-identity-protection
-A real-time face blurring application using Python and OpenCV for identity protection and privacy preservation.
+Face Blurring for Identity Protection
+
+Run:
+python live_face_blur.py
+
+Press Q to quit.
